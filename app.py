@@ -49,6 +49,11 @@ def register():
             password=hashed_password
         )
 
+        existing_user = User.query.filter_by(email=email).first()
+
+        if existing_user:
+            return "Email already registered. Please use another email."
+
         db.session.add(user)
         db.session.commit()
 
