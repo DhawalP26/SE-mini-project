@@ -69,8 +69,8 @@ SE-mini-project/
 
 ## Team Members
 
-| Name | SRN |
+| Name | SRN | Role
 |------|-----|
-| Dhawal Pathak | PES1UG24CS151 |
+| Dhawal Pathak | PES1UG24CS151 | User-side functionality & core system
+| Harshitha P | PES1UG24CS186 | Admin functionality & interface
 | GANESH M | PES1UG24CS168 |
-| Harshitha P | PES1UG24CS186 |
